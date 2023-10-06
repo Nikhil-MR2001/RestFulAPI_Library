@@ -19,7 +19,6 @@ class BookViewset(viewsets.ModelViewSet):
 '''
 
                 testing in postman
-                
 List - http://localhost:8000/api/books/,    -------------- ----------- -----------> GET
 Retrieve  - http://localhost:8000/api/books/{id}/,      -------------- ----------- -----------> GET    
 Create - http://localhost:8000/api/books/ ,      -------------- ----------- -----------> POST
